@@ -24,6 +24,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Copyright © 2021 Hate Mosquitoes Studio. All Right Reserved.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+author: tinglei8
+
+tinglei8:
+  name: tinglei8
+  email: tinglei8@gmail.com
 
 github_username: tinglei8
 twitter_username: tinglei8
